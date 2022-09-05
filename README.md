@@ -15,7 +15,7 @@ ________________________________________________________________________________
   Cite as: "Latella, M., Raimondo, T., Belcore, L., Salerno, L., 
                         and Camporeale, C. (2022), On the integration of 
                         LiDAR and field data for riparian biomass 
-                        estimation, Journal of Environmental Management".
+                        estimation, Journal of Environmental Management, 322, 116046".
   
   and "Latella, M., Sola, F., & Camporeale, C. (2021). A Density-Based 
            Algorithm for the Detection of Individual Trees from LiDAR Data. 
