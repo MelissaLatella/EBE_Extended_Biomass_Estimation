@@ -10,7 +10,7 @@ ________________________________________________________________________________
   Created: November 2021
   Last update: 26 July 2022
  
-  melissa.latella@polito.it
+  melissa.latella@cmcc.it
   
   Cite as: "Latella, M., Raimondo, T., Belcore, L., Salerno, L., 
                         and Camporeale, C. (2022), On the integration of 
